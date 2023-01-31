@@ -10,15 +10,11 @@ Step 4: Adding New Column of “month” to find out the Complaint on month wise
 
 Step 5: Grouping the list of complaint by using date column and it clearly shown 24th June was the most complaints recorded as per the data.
 
-469104510849 Step 6: 
-
 Step 6: Reset and Renaming the dates column name to find the count of complaints
 
 Step 7: For the better understanding, we use plot line graph to identify the month and date column.
 
 After grouping the month column we could find the June month complaint is around 1280. 
-
-5465263919692
 
 Step 8: Reset and Renaming the month column name to find the count of compalints
 
